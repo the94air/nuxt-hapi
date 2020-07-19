@@ -1,0 +1,1 @@
+console.log('plugins should work on development mode too!');

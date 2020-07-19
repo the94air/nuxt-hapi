@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^19.2.0",
+    "@nuxtjs/hapi": "^2.3.0",
+    "nuxt": "^2.13.3"
+  }
+}
